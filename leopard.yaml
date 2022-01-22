@@ -2,8 +2,14 @@ team : Leopards
 
 manger : Nora
 
+coach : Oscar
+
 members :
 -Linda
 -William
 -David
+<<<<<<< HEAD
 - Olivia
+=======
+-Olivia
+>>>>>>> add-coach
